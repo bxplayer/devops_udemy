@@ -13,6 +13,7 @@ public class BasicApplicationTests {
 	@Test
 	public void contextLoads() {
 		String message = "default message cambio 12";
+		String message2 = "Algo";
 		//Assert.assertNotNull(message);
 	}
 
