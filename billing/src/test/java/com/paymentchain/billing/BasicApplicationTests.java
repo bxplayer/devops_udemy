@@ -14,6 +14,7 @@ public class BasicApplicationTests {
 	public void contextLoads() {
 		String message = "default message cambio 12";
 		String message2 = "Algo";
+		String message3 = "Algo";
 		//Assert.assertNotNull(message);
 	}
 
